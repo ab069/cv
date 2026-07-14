@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 UI/UX designer working in Figma, with a rare hybrid advantage: I also build the frontend myself (React, Next.js, Angular), so designs I hand off are already implementation-aware — grounded in real component and performance constraints.
 
-## Core Skills
+## Skills
 - **Design:** Figma, Prototyping, Design Systems, Wireframing, Responsive/Mobile-first Design
 - **Implementation:** React, Next.js, Angular, TypeScript, HTML/CSS
 - **UX Research-adjacent:** UX/UI optimization, performance-driven design decisions
@@ -23,7 +23,7 @@ Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 Xperion | Nov 2023 – Present | Islamabad, Pakistan
 - Work closely with frontend implementation across Next.js/React products, bridging design intent and engineering delivery.
 
-## Key Projects
+## Projects
 - **LMS – School Management System:** Designed and built the Angular frontend for a school/student management system with real-time features.
 - **Text & Image Editor / Photo Editor:** End-to-end design and implementation of editing tools with formatting, filters, and save functionality.
 

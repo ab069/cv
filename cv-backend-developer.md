@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Backend-focused engineer with 2.5+ years designing scalable microservices, secure APIs, and relational data models. Experienced across NestJS/Node.js and .NET Core, with a strong emphasis on multi-tenant architecture, access control, and cloud infrastructure reliability.
 
-## Core Skills
+## Skills
 - **Languages & Frameworks:** Node.js, NestJS, .NET Core / C#, Python, GraphQL, TypeORM, Entity Framework
 - **Databases:** PostgreSQL, SQL Server, MongoDB, MySQL
 - **Architecture:** Microservices, Multi-tenant Systems, RBAC, Audit Logging, API Gateway Design
@@ -28,7 +28,7 @@ Thathal Information and Technological Solutions | Feb 2023 – Jun 2023 | Pakist
 - Decomposed a monolithic backend into microservices, enabling independent scaling and future AI edge function integration.
 - Optimized database queries and refactored bottleneck code paths, achieving a 50% improvement in application performance.
 
-## Key Projects
+## Projects
 - **LMS – School Management System:** Backend built with .NET Core, integrated with Supabase for real-time data synchronization.
 - **DB Project "Hamare Bachey":** NGO management system with SQL, PHP backend design.
 

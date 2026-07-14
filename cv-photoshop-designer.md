@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Photoshop-focused visual designer with experience producing brand and marketing assets for social and web, plus the technical depth to have built an image-editing application from scratch — I understand image manipulation at both the design and code level.
 
-## Core Skills
+## Skills
 - **Design Tools:** Adobe Photoshop, Canva, Figma
 - **Disciplines:** Photo Editing, Image Compositing, Brand Assets, Web/Marketing Graphics
 - **Technical:** HTML/CSS/JavaScript image processing (filters, editing pipelines)
@@ -16,7 +16,7 @@ Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 - Led graphic design projects, creating visually compelling content that enhanced brand identity and engagement across social media platforms.
 - Designed and maintained responsive WordPress websites with optimized UX/UI.
 
-## Key Projects
+## Projects
 - **Photo Editor:** Built a photo editor with HTML, CSS, and JavaScript, including image selection, filter application, and save functionality — hands-on understanding of image editing beyond just the Photoshop UI.
 
 ## Education

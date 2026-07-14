@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Full stack developer with 2.5+ years of experience delivering end-to-end web applications — from database design to frontend implementation. Proven track record across the MERN/MEAN stacks, NestJS, and .NET, with growing specialization in AI-integrated features.
 
-## Core Skills
+## Skills
 - **Frontend:** React, Next.js, Angular, TypeScript
 - **Backend:** Node.js, NestJS, .NET Core / C#, Python, GraphQL
 - **Databases:** PostgreSQL, SQL Server, MongoDB, MySQL, TypeORM
@@ -37,7 +37,7 @@ Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 - Built and maintained responsive WordPress websites with optimized UX/UI for multiple client brands.
 - Managed web hosting infrastructure and DNS configurations, ensuring minimal downtime.
 
-## Key Projects
+## Projects
 - **LMS – School Management System:** Full-scale system using Angular and .NET Core, integrated with Supabase for real-time data sync.
 - **ComVE – Commonsense Validation & Explanation:** Fine-tuned an OpenAI GPT model with a RAG pipeline for contextual reasoning.
 - **Urdu-to-English Neural Translation:** Transformer-based encoder-decoder model using Python and Flask.

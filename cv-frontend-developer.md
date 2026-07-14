@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Frontend engineer with 2.5+ years building performant, SEO-friendly, and accessible interfaces using React, Next.js, and Angular. Proven record of measurable performance wins — including a 40% SEO score improvement and 35% faster page loads through a React-to-Next.js migration.
 
-## Core Skills
+## Skills
 - **Core:** React, Next.js, Angular, TypeScript, JavaScript
 - **Performance & SEO:** Server-side rendering, Core Web Vitals, page-load optimization, technical SEO
 - **UI/UX:** Responsive design, WordPress theming, component architecture
@@ -30,7 +30,7 @@ Thathal Information and Technological Solutions | Feb 2023 – Jun 2023 | Pakist
 Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 - Built and maintained responsive WordPress websites with optimized UX/UI for multiple client brands.
 
-## Key Projects
+## Projects
 - **LMS – School Management System:** Angular frontend for a school/student management system with real-time features via Supabase.
 - **Text & Image Editor:** Built formatting, editing, and saving functionality using modern web technologies.
 - **Photo Editor:** HTML/CSS/JavaScript editor with image selection, filters, and save options.

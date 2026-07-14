@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Web developer with 2.5+ years across the full lifecycle of website and web-app delivery — WordPress, React/Next.js, and backend APIs. Comfortable owning a project end-to-end: design, build, deploy, and host.
 
-## Core Skills
+## Skills
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular
 - **Backend:** Node.js, .NET Core / C#, PostgreSQL, MongoDB
 - **CMS & Hosting:** WordPress, Web Hosting, DNS Configuration
@@ -27,7 +27,7 @@ Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 Digital Security Network | Jul 2023 – Present
 - Built full web applications end-to-end (React frontend, Node.js/.NET backend, PostgreSQL/Supabase databases).
 
-## Key Projects
+## Projects
 - **LMS – School Management System:** Full-scale web app using Angular and .NET Core, integrated with Supabase for real-time data sync.
 - **Text & Image Editor / Photo Editor:** Browser-based editing tools built with HTML, CSS, and JavaScript.
 

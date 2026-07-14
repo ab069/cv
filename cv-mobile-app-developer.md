@@ -5,12 +5,12 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Mobile app developer building cross-platform apps with Flutter and React Native — from offline-first desktop/mobile POS systems to real-time video-calling apps with Firebase and WebRTC. Backed by a full-stack engineering background (APIs, databases, cloud) that carries into building complete, backend-integrated mobile products, not just UI.
 
-## Core Skills
+## Skills
 - **Flutter:** Dart, Flutter (Desktop + Mobile), SQLite (sqflite), Provider state management, PDF generation/printing, offline-first architecture
 - **React Native:** React Navigation, Firebase (Auth, Firestore), Google Sign-In, WebRTC, Agora SDK, Socket.io, Jest
 - **General:** REST/GraphQL API integration, TypeScript, cross-platform UI
 
-## Mobile Projects
+## Projects
 **Sweet-N-Ice POS** (Flutter, Desktop + Mobile) — 2026
 - Built an offline point-of-sale app using SQLite (sqflite) for local data, with PDF receipt generation/printing and session-based admin sales controls with business-day cutoff logic.
 
