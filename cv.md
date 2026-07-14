@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Results-driven Engineering Manager and Full Stack Developer with 2.5+ years of experience at Xperion, delivering scalable, AI-powered software solutions. Proven expertise in leading agile engineering teams, architecting microservices with NestJS and GraphQL, and orchestrating autonomous AI agents to automate end-to-end development workflows.
 
-## Core Competencies
+## Skills
 - **Engineering Leadership:** Agile Delivery, AI Agent Orchestration, Team Mentorship, Resource Planning
 - **Backend:** NestJS, Node.js, .NET Core / C#, Python, GraphQL
 - **Frontend:** Next.js, React, Angular, TypeScript
@@ -40,7 +40,7 @@ Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 - Built and maintained responsive WordPress websites with optimized UX/UI for multiple client brands.
 - Managed web hosting infrastructure and DNS configurations, ensuring minimal downtime and reliable performance.
 
-## Key Projects
+## Projects
 - **ComVE – Commonsense Validation & Explanation:** Fine-tuned an OpenAI GPT model using CLM, augmented with a RAG pipeline and vector embeddings for contextual reasoning.
 - **LMS – School Management System:** Full-scale system using Angular and .NET Core, integrated with Supabase for real-time data synchronization.
 - **Urdu-to-English Neural Translation:** Transformer-based encoder-decoder model using Python and Flask for accurate bidirectional translation.
@@ -49,7 +49,7 @@ Onset Media Agency | Nov 2018 – Jun 2021 | Florida, USA (Remote)
 - **MS Cyber Security** – National University of Computer and Emerging Sciences (FAST-NUCES) | 2024 – 2026
 - **BS Computer Science** – National University of Computer and Emerging Sciences (FAST-NUCES) | 2017 – 2023
 
-## Certifications & Training
+## Certifications
 - Claude Code in Action | Anthropic Training | 2026
 - Introduction to Agent Skills | Anthropic Training | 2026
 - Model Context Protocol: Advanced Topics | Anthropic Training | 2026

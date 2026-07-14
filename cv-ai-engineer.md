@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 AI-focused software engineer with 2.5+ years building production systems at the intersection of full-stack engineering and applied AI. Hands-on experience orchestrating autonomous AI agent pipelines, building RAG architectures, and integrating LLM APIs (OpenAI, Anthropic/Claude) into real products. Comfortable owning the full stack from vector databases to the API layer that serves them.
 
-## Core Skills
+## Skills
 - **AI / LLM:** AI Agent Orchestration, RAG Architectures, LLM Integration (OpenAI, Anthropic/Claude), Prompt Engineering, Embeddings, Fine-tuning (CLM), Transformers & NLP
 - **Vector & Data:** Pinecone, pgvector, Weaviate, PostgreSQL, MongoDB
 - **Backend:** Python, Node.js, NestJS, GraphQL, Flask, TypeORM
@@ -29,7 +29,7 @@ Digital Security Network | Jul 2023 – Present
 Thathal Information and Technological Solutions | Feb 2023 – Jun 2023 | Pakistan
 - Decomposed a monolithic backend into microservices, enabling independent scaling and AI edge function integration.
 
-## Key Projects
+## Projects
 - **ComVE – Commonsense Validation & Explanation:** Fine-tuned an OpenAI GPT model using causal language modeling (CLM), augmented with a RAG pipeline and vector embeddings for contextual reasoning.
 - **Urdu-to-English Neural Translation:** Transformer-based encoder-decoder model built with Python and Flask for bidirectional translation.
 
@@ -37,7 +37,7 @@ Thathal Information and Technological Solutions | Feb 2023 – Jun 2023 | Pakist
 - **MS Cyber Security** – National University of Computer and Emerging Sciences (FAST-NUCES) | 2024 – 2026 (in progress)
 - **BS Computer Science** – National University of Computer and Emerging Sciences (FAST-NUCES) | 2017 – 2023
 
-## Certifications & Training
+## Certifications
 - Claude Code in Action | Anthropic Training | 2026
 - Introduction to Agent Skills | Anthropic Training | 2026
 - Model Context Protocol: Advanced Topics | Anthropic Training | 2026

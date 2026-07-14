@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 WordPress developer with 2.5+ years building and maintaining responsive, client-facing websites — from theming and UX/UI to hosting, DNS, and performance. Backed by a broader software engineering background in React/Next.js and backend systems, giving a technical edge on custom WordPress work beyond standard theming.
 
-## Core Skills
+## Skills
 - **WordPress:** Theming, Custom Page Builds, Responsive UX/UI, Plugin Configuration
 - **Infrastructure:** Web Hosting Management, DNS Configuration, Uptime & Performance
 - **Broader Web:** HTML/CSS/JavaScript, React, Next.js (for custom/headless builds), SEO fundamentals

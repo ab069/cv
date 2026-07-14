@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Social media and content designer using Canva to produce on-brand visual assets at speed, backed by real experience running social media strategy and content for multiple client brands — I design for engagement, not just aesthetics.
 
-## Core Skills
+## Skills
 - **Design Tools:** Canva, Photoshop
 - **Content:** Social Media Graphics, Brand Templates, Marketing Collateral, Content Calendars
 - **Strategy:** Content Strategy, Audience Engagement, Brand Consistency

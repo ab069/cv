@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Technical SEO specialist with a software engineering background — I don't just recommend SEO changes, I implement them at the code level. Delivered a 40% SEO score improvement and 35% faster page loads through a React-to-Next.js migration, backed by hands-on WordPress and site-performance experience.
 
-## Core Skills
+## Skills
 - **Technical SEO:** Server-side rendering (Next.js), Core Web Vitals, page-speed optimization, site architecture
 - **On-page & Content:** WordPress SEO, content strategy, UX/UI optimization
 - **Web Fundamentals:** React, Next.js, JavaScript/TypeScript, hosting & DNS management
