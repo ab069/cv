@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Digital marketing professional with a technical engineering background — a rare combination that lets me plan and execute campaigns while also owning the website, SEO, and analytics infrastructure behind them. 2.5+ years managing social media, content strategy, and web presence, plus direct experience leading technical teams.
 
-## Core Skills
+## Skills
 - **Marketing:** Social Media Strategy, Content Strategy, Brand Engagement, Campaign Execution
 - **Web & SEO:** WordPress, Technical SEO, Site Performance Optimization, UX/UI
 - **Leadership:** Team Mentorship, Agile Delivery, Resource Planning, Stakeholder Management

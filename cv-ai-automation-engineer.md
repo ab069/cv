@@ -5,7 +5,7 @@ Islamabad, Pakistan | +92 331 383 0800 | abdullahbaloch070@gmail.com | linkedin.
 ## Summary
 Engineer specializing in AI-driven workflow automation — orchestrating autonomous AI agent pipelines that replace manual engineering steps, and integrating LLM APIs directly into business applications. 2.5+ years shipping automation into production systems, not just prototypes.
 
-## Core Skills
+## Skills
 - **AI Automation:** AI Agent Orchestration, Autonomous Workflow Pipelines, LLM API Integration (OpenAI, Anthropic/Claude), RAG Architectures
 - **Engineering:** Node.js, NestJS, Python, GraphQL, TypeORM
 - **Data:** PostgreSQL, Vector DBs (Pinecone, pgvector), MongoDB
@@ -22,10 +22,10 @@ Xperion | Nov 2023 – Present | Islamabad, Pakistan
 Digital Security Network | Jul 2023 – Present
 - Integrated LLM-based APIs into a production application to automate data retrieval and generate contextual insights, replacing manual lookup workflows.
 
-## Key Projects
+## Projects
 - **ComVE – Commonsense Validation & Explanation:** Fine-tuned an OpenAI GPT model with a RAG pipeline and vector embeddings for automated contextual reasoning.
 
-## Certifications & Training
+## Certifications
 - Claude Code in Action | Anthropic Training | 2026
 - Introduction to Agent Skills | Anthropic Training | 2026
 - Model Context Protocol: Advanced Topics | Anthropic Training | 2026
